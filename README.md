@@ -1,5 +1,7 @@
 # Bergflix Frontend
 
+## Please check the rewrite branch for the maintained version
+
 [![Build](https://github.com/Bergflix-Remake/frontend/actions/workflows/build.yml/badge.svg)](https://github.com/Bergflix-Remake/frontend/actions/workflows/build.yml)
 
 ## Bergflix is back!
